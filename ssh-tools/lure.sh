@@ -3,7 +3,7 @@ version=1.7
 release=1
 desc='collection of various tools using ssh'
 homepage='https://github.com/vaporup/ssh-tools'
-architectures=('any')
+architectures=('all')
 license=('GPLv3')
 
 deps=('openssh-client')
