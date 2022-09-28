@@ -4,6 +4,8 @@ release=1
 desc='collection of various tools using ssh'
 homepage='https://github.com/vaporup/ssh-tools'
 architectures=('all')
+architectures_arch=('noarch')
+architectures_opensuse=('noarch')
 license=('GPLv3')
 
 deps=('openssh-client')
